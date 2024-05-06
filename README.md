@@ -1,7 +1,6 @@
 # RAG-GROQ
 END TO END RAG PROJECT WITH MISTRAL OPEN SOURCE LLM WITH GROQ INFERENCING ENGINE
 
-<img width="1440" alt="Screenshot 2024-05-06 at 10 34 01 PM" src="https://github.com/tvanshika11/RAG-GROQ/assets/56580247/bfe92115-18f0-405e-9050-548edbd7dce4">
 
 
 
